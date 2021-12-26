@@ -2,9 +2,9 @@
 
 ### Screenshots
 
-![Design preview for the NFT preview card component coding challenge](/design/desktop-design.jpg)
+![Design preview for the NFT preview card component coding challenge](/NFT-Preview-Card/design/desktop-design.jpg)
 
-![Design preview for the NFT preview card component coding challenge](/design/active-states.jpg)
+![Design preview for the NFT preview card component coding challenge](/NFT-Preview-Card/design/active-states.jpg)
 
 
 ## The challenge
